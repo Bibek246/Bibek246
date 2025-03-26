@@ -1,49 +1,74 @@
-<p align="center">
-  <img src="banner.png" alt="Bibek Sharma banner" width="100%" />
-</p>
+<div align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/bibek-sharma-5b382a152/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/your-handle">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=bibeksharma&style=flat-square&color=blue" alt="Profile Views Counter"/>
+  </div>
+</div>
 
-<h1 align="center">Hi there 👋, I'm Bibek Sharma</h1>
-<h3 align="center">Computer Science Student | 🧠 AI & Full Stack Dev Enthusiast</h3>
+<h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=React+%2B+FastAPI+%2F+Flask+%2B+MySQL;TensorFlow+%2F+PyTorch+%2F+OpenCV+%2F+MediaPipe;I+build+cool+AI-powered+stuff+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
-### 🛠️ Projects & Work
-
-- 🎵 **AI Mood-Based Playlist Generator**  
-  Detects emotions and plays Spotify music  
-  [Frontend](https://github.com/bibeksharma/ai-mood-playlist-ui) | [Backend](https://github.com/bibeksharma/ai-mood-playlist-api)
-
-- 🤖 **AI Virtual Assistant** *(Coming Soon)*  
-- 📺 **AI Video Summarizer** *(WIP)*  
-- 📊 **Steel Defect Classifier** | 📷 **Pose Estimation**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-### ⚙️ Tech Stack
+👋 Hey, I'm **Bibek Sharma**, a passionate undergraduate at the **University of Idaho**, originally from **Birgunj, Nepal** 🇳🇵. I'm majoring in **Computer Science** and actively building projects in:
 
-```yaml
-Languages: Python, JavaScript/TypeScript, Java, SQL
-Frontend: React, Next.js, Tailwind, MUI
-Backend: FastAPI, Flask, Node.js
-AI/ML: TensorFlow, PyTorch, OpenCV, MediaPipe
-Database: MySQL, PostgreSQL, MongoDB
-Cloud & Tools: AWS, Firebase, Docker, Git, VSCode
+- 🎵 AI & Mood-Based Playlist Generation  
+- 🤖 Gesture/Mood-Controlled Virtual Assistant  
+- 📊 Bayesian Machine Learning  
+- 📷 Pose Estimation & Action Recognition  
+- 🌐 Full-Stack Web Dev with React + FastAPI + MySQL  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bibeksharma&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibeksharma&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bibeksharma&theme=darkhub&margin-w=15" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibeksharma&theme=react-dark" /> </p>
+---
 
-📫 Connect with Me
-🌐 Website (Coming Soon)
+### 🤔 Why AI + Full Stack?
 
-💼 LinkedIn
-https://www.linkedin.com/in/bibek-sharma-5b382a152/
+Over time, I realized that combining intelligent systems with intuitive user interfaces makes technology more *human-friendly*. Whether it's a smart assistant or emotion-driven playlists, I love turning abstract ideas into functional, impactful tools.
 
-✉️ bibek.sharma@email.com
+---
 
-✨ Fun Fact
-I’m building tools that feel like magic — and powered by code.
+### 🔗 How to Reach Me
 
+[![Linkedin Badge](https://img.shields.io/badge/-Bibek%20Sharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibeksharma)  
+📬 bibek.sharma@email.com  
+🌐 Portfolio: Coming soon...
+
+---
+
+### 🪛 Languages & Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bibeksharma&theme=shades-of-purple&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibeksharma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🧠 Fun Fact
+
+> I’m working on building an AI-powered assistant that reacts to your mood and gestures — no buttons, no typing, just vibes.
+
+---
+
+✨ *Thanks for visiting! Check out my pinned projects and let’s connect!*
