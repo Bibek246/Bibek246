@@ -30,7 +30,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bibek%20Sharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bibeksharma)  
 📬 sharmabivek.18@gmail.com  
-🌐 Portfolio: Coming soon...
+🌐 Portfolio: https://bibeksharma.vercel.app/
 
 ---
 
