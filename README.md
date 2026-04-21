@@ -18,11 +18,28 @@
 
 ---
 
-👋 Hello! I'm **Bibek Sharma**, a passionate Computer Science major with a Mathematics minor at the **University of Idaho**. I specialize in **Machine Learning** and **Artificial Intelligence**, where I explore how intelligent systems can enhance human experiences.
+## 👋 Hi, I'm Bibek Sharma
 
-🧞 Whether it's building smart assistants that react to your mood, or designing full-stack applications powered by AI, I love turning abstract ideas into real-world innovations. My work bridges data, algorithms, and creativity — all driven by curiosity and a mission to solve meaningful problems.
+I'm a **Master’s student in Bioinformatics and Computational Biology** at the **University of Idaho**, with a background in **Computer Science** and **Mathematics**. I’m passionate about applying **Machine Learning**, **Artificial Intelligence**, and **computational methods** to solve meaningful real-world problems.
 
-💡 I'm always experimenting, learning, and creating — one project at a time. Let's build something awesome together!
+## 🧠 What I Do
+
+I enjoy building projects that sit at the intersection of **data, algorithms, research, and creativity**. My work includes developing intelligent applications, full-stack systems, and AI-driven tools that make complex ideas more practical, accessible, and impactful.
+
+## 🚀 What Drives Me
+
+I’m constantly learning, experimenting, and creating — one project at a time. Whether I’m working on research-focused computational problems or designing innovative software solutions, I love turning ideas into something useful and meaningful.
+
+## 🌱 Current Focus
+
+- Bioinformatics and computational biology  
+- Machine learning and AI applications  
+- Full-stack development  
+- Research-driven problem solving  
+
+## 🤝 Let’s Connect
+
+I’m always excited to learn, collaborate, and build something meaningful.
 
 ---
 
